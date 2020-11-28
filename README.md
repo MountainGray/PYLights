@@ -10,3 +10,6 @@ This project serves to make desktop hue control quicker and less obtrusive!
 1. make user and initialization functions
 2. make lights and control functions
 3. Decide interface methods
+
+cli vs full app??
+is there an easier way to integrate into windows toolbar? mac?

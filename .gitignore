@@ -1,0 +1,5 @@
+# user env files
+**/.vscode
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*/tmp/*
